@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "Matheus Figueiredo",
+  "license": "ISC",
+  "description": "Back-end da aplicação de cadastro de usuários, feito para aprender conceitos de Node",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "prisma": "^6.8.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.8.2",
+    "express": "^5.1.0"
+  }
+}
