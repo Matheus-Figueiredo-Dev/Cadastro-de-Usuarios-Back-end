@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "cadastro-de-usuarios-back-end",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
